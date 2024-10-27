@@ -1,4 +1,6 @@
 # CS-330-16762 Reese Hinojosa
+Project Overview
+In my 3D scene, I created a playful underwater world inspired by Conch Street on the SpongeBob SquarePants show. It features key landmarks like Squidward's house, represented as a tall, tapered cylinder with reflective glass windows; Patrick's house, constructed as a half sphere with a cylinder made antennae; and SpongeBob's house, a three stacked cylinder structure with pointy cone leaves on top. The backdrop is a sandy beach, and a floating jellyfish adds an element of dynamic animation to the scene. Lighting and textures were carefully applied to enhance the whimsical and vibrant atmosphere.
 # How do I approach designing software?
 What new design skills has your work on the project helped you to craft?
 What design process did you follow for your project work?
